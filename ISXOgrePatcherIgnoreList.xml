@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<Manifest>
+  <!-- Add entries starting from the /innerspace/ folder. 
+  For example, if you wanted to IGNORE the fake file inside of EQ2OgreCommon/OgreHireling/FakeFile.iss
+  Your entry would be:
+  -->
+    <FileInfo>
+        <filename>Scripts/EQ2OgreCommon/OgreHireling/FakeFile.iss</filename>
+      <ignore>1</ignore>
+    </FileInfo>
+  <!-- Likewise, if you wanted to set a do not over write on the file:
+  Scripts/EQ2OgreBot/MCP/FakeFile2.xml
+  Your entry would be:
+  -->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2buttontexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+  -->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2buttontexturehover.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+  -->
+   <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2buttontexturepressed.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+  -->
+   <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2windowtextureframe.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+  -->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2windowtextureframe.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+  -->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2tabcontroltabtextureframe.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo> 
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2windowtitlebartextureframe.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>  
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2listboxtexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2combolistboxtexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2gaugetexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2sliderhandletexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2scrollbarsliderhandletexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2scrollbarslidertexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2slidertexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2tabcontroltabtexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>
+-->
+  <FileInfo>
+    <filename>Interface/Skins/EQ2Ogre/Images/eq2comboboxtexture.png</filename>
+    <donotoverwrite>1</donotoverwrite>
+  </FileInfo>             
+</Manifest>
