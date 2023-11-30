@@ -1,4 +1,4 @@
-# Ogre-Blue-UI
+# Ogre-UI
 RI files go to
 C:\Program Files (x86)\InnerSpace\Scripts\Interface\Skins\EQ2\EQ2
 
